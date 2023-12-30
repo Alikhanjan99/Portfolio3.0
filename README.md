@@ -1,9 +1,8 @@
                                                       <!--  #Portfolio3.0  -->
                                                       <!--  #Home  -->
 <img src="https://raw.githubusercontent.com/Alikhanjan99/Portfolio3.0/main/Screen%20shorts/%23home.png">
-
 <br>
-                                                      <!--  #About  -->
+                                                     <!--  #About  -->
 <img src="https://raw.githubusercontent.com/Alikhanjan99/Portfolio3.0/main/Screen%20shorts/%23about.png">
 
 
