@@ -15,7 +15,7 @@
 <br>
 
 
-<img src="https://raw.githubusercontent.com/Alikhanjan99/Portfolio3.0/main/Screen%20shorts/%23portfolio.png">
+<img src="https://raw.githubusercontent.com/Alikhanjan99/Portfolio3.0/main/Screen%20shorts/%23projects.png">
 
 
 <br>
